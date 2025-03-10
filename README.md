@@ -1,2 +1,2 @@
 # jam-portfolio
-my portfolio site 
+my portfolio site
